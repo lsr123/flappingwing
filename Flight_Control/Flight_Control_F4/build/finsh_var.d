@@ -1,0 +1,14 @@
+.\build\finsh_var.o: ..\..\RT-Thread_1.2.0RC\components\finsh\finsh_var.c
+.\build\finsh_var.o: ..\..\RT-Thread_1.2.0RC\components\finsh\finsh.h
+.\build\finsh_var.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\finsh_var.o: ..\..\RT-Thread_1.2.0RC\include\rtdef.h
+.\build\finsh_var.o: .\rtconfig.h
+.\build\finsh_var.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\finsh_var.o: ..\..\RT-Thread_1.2.0RC\include\rtdebug.h
+.\build\finsh_var.o: ..\..\RT-Thread_1.2.0RC\include\rtservice.h
+.\build\finsh_var.o: ..\..\RT-Thread_1.2.0RC\include\rtm.h
+.\build\finsh_var.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\finsh_var.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\finsh_var.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\finsh_var.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\build\finsh_var.o: ..\..\RT-Thread_1.2.0RC\components\finsh\finsh_var.h

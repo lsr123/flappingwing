@@ -1,0 +1,15 @@
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\components\drivers\src\pipe.c
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\include\rthw.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\include\rtdef.h
+.\build\pipe.o: .\rtconfig.h
+.\build\pipe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\include\rtdebug.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\include\rtservice.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\include\rtm.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\components\drivers\include\rtdevice.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\components\drivers\include\drivers/rtc.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\components\drivers\include\drivers/spi.h
+.\build\pipe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\pipe.o: ..\..\RT-Thread_1.2.0RC\components\drivers\include\drivers/serial.h

@@ -1,0 +1,9 @@
+.\build\cpuport.o: ..\..\RT-Thread_1.2.0RC\libcpu\arm\cortex-m3\cpuport.c
+.\build\cpuport.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\cpuport.o: ..\..\RT-Thread_1.2.0RC\include\rtdef.h
+.\build\cpuport.o: .\rtconfig.h
+.\build\cpuport.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\cpuport.o: ..\..\RT-Thread_1.2.0RC\include\rtdebug.h
+.\build\cpuport.o: ..\..\RT-Thread_1.2.0RC\include\rtservice.h
+.\build\cpuport.o: ..\..\RT-Thread_1.2.0RC\include\rtm.h
+.\build\cpuport.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h

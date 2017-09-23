@@ -1,0 +1,14 @@
+.\build\mem.o: ..\..\RT-Thread_1.2.0RC\src\mem.c
+.\build\mem.o: ..\..\RT-Thread_1.2.0RC\include\rthw.h
+.\build\mem.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\mem.o: ..\..\RT-Thread_1.2.0RC\include\rtdef.h
+.\build\mem.o: .\rtconfig.h
+.\build\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\mem.o: ..\..\RT-Thread_1.2.0RC\include\rtdebug.h
+.\build\mem.o: ..\..\RT-Thread_1.2.0RC\include\rtservice.h
+.\build\mem.o: ..\..\RT-Thread_1.2.0RC\include\rtm.h
+.\build\mem.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\mem.o: ..\..\RT-Thread_1.2.0RC\components\finsh\finsh.h
+.\build\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

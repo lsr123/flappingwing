@@ -1,0 +1,9 @@
+.\build\console.o: ..\..\RT-Thread_1.2.0RC\components\dfs\filesystems\devfs\console.c
+.\build\console.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\console.o: ..\..\RT-Thread_1.2.0RC\include\rtdef.h
+.\build\console.o: .\rtconfig.h
+.\build\console.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\console.o: ..\..\RT-Thread_1.2.0RC\include\rtdebug.h
+.\build\console.o: ..\..\RT-Thread_1.2.0RC\include\rtservice.h
+.\build\console.o: ..\..\RT-Thread_1.2.0RC\include\rtm.h
+.\build\console.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h

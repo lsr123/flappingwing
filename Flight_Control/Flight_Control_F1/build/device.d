@@ -1,0 +1,9 @@
+.\build\device.o: ..\..\RT-Thread_1.2.0RC\src\device.c
+.\build\device.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\device.o: ..\..\RT-Thread_1.2.0RC\include\rtdef.h
+.\build\device.o: .\rtconfig.h
+.\build\device.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\device.o: ..\..\RT-Thread_1.2.0RC\include\rtdebug.h
+.\build\device.o: ..\..\RT-Thread_1.2.0RC\include\rtservice.h
+.\build\device.o: ..\..\RT-Thread_1.2.0RC\include\rtm.h
+.\build\device.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h

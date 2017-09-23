@@ -1,0 +1,10 @@
+.\build\ipc.o: ..\..\RT-Thread_1.2.0RC\src\ipc.c
+.\build\ipc.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\ipc.o: ..\..\RT-Thread_1.2.0RC\include\rtdef.h
+.\build\ipc.o: .\rtconfig.h
+.\build\ipc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\ipc.o: ..\..\RT-Thread_1.2.0RC\include\rtdebug.h
+.\build\ipc.o: ..\..\RT-Thread_1.2.0RC\include\rtservice.h
+.\build\ipc.o: ..\..\RT-Thread_1.2.0RC\include\rtm.h
+.\build\ipc.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\ipc.o: ..\..\RT-Thread_1.2.0RC\include\rthw.h

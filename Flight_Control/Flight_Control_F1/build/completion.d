@@ -1,0 +1,15 @@
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\components\drivers\src\completion.c
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\include\rthw.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\include\rtdef.h
+.\build\completion.o: .\rtconfig.h
+.\build\completion.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\include\rtdebug.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\include\rtservice.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\include\rtm.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\components\drivers\include\rtdevice.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\components\drivers\include\drivers/rtc.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\components\drivers\include\drivers/spi.h
+.\build\completion.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\completion.o: ..\..\RT-Thread_1.2.0RC\components\drivers\include\drivers/serial.h

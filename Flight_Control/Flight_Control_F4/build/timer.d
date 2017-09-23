@@ -1,0 +1,10 @@
+.\build\timer.o: ..\..\RT-Thread_1.2.0RC\src\timer.c
+.\build\timer.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\timer.o: ..\..\RT-Thread_1.2.0RC\include\rtdef.h
+.\build\timer.o: .\rtconfig.h
+.\build\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\timer.o: ..\..\RT-Thread_1.2.0RC\include\rtdebug.h
+.\build\timer.o: ..\..\RT-Thread_1.2.0RC\include\rtservice.h
+.\build\timer.o: ..\..\RT-Thread_1.2.0RC\include\rtm.h
+.\build\timer.o: ..\..\RT-Thread_1.2.0RC\include\rtthread.h
+.\build\timer.o: ..\..\RT-Thread_1.2.0RC\include\rthw.h
